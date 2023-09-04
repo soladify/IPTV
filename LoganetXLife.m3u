@@ -1,0 +1,96 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1 group-title="Автохобби", Авто Плюс
+https://tbs01-edge11.itdc.ge/autoplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Автохобби", Авто 24
+https://tbs01-edge11.itdc.ge/auto24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Автохобби", Драйв
+https://tbs01-edge11.itdc.ge/drive/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Автохобби", Моторспорт ТВ
+http://109.200.135.130:8080/motorsport/index.m3u8
+#EXTINF:-1 group-title="Игры" tvg-id="e-tv", E HD
+http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Охота и рыбалка", Диалоги о рыбалке
+https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
+#EXTINF:-1 group-title="Охота и рыбалка", Дикая рыбалка HD
+http://91.220.135.165:81/38/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 group-title="Охота и рыбалка", Дикая охота HD 
+http://91.220.135.165:81/37/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 group-title="Охота и рыбалка", Дикий 
+http://217.107.34.114:8007/playlist.m3u8
+#EXTINF:-1 group-title="Охота и рыбалка", Охота и рыбалка
+https://tbs01-edge11.itdc.ge/ohotairibalka/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Охота и рыбалка", Рыбалка и охота
+https://cdn-cache01.voka.tv:443/live/244.m3u8
+#EXTINF:-1 group-title="Охота и рыбалка", Охотник и рыболов HD
+http://109.200.135.130:8080/ohot_i_rybolov_hd/index.m3u8
+#EXTINF:-1 group-title="Охота и рыбалка", Охотник и рыболов International
+https://stream-msk-14.ott.tricolor.tv:443/dtv/id614_MSKSG-PVR-1--Ohotnik_i_ryb_int_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTAyNTUwMDYwNTg4MiIsImV4cCI6MTY4OTc0MjYwMywiaHdpZCI6IjA1OTgxOTUwMjliODE3MzIxYTQ2MGE3M2QwNWRjNGY5M2I5ZmM0NjM5OWFlOWRmYzJlZTZiMGUwNDVhZWViYzkiLCJsYXN0X3JlcV9kYXRlIjoxNjg5MTM3ODAzLCJzZXNzaW9uX2lkIjoiZDUzMjJkYmUwMDhmMjJhMzNhNjVlNzUxMGUwNjE5YjMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.PmGZ4KtoKgeYcfmweYBl4yVcsUvYdpKVIzXuNNROXH4 
+#EXTINF:-1 group-title="Охота и рыбалка", Рыболов
+http://109.200.135.130:8080/ohotnik/index.m3u8
+#EXTINF:-1 group-title="Мода", Fashion TV HD
+https://okkotv-live.cdnvideo.ru/channel/Fashion_TV_HD/1080p.m3u8
+#EXTINF:-1 group-title="Мода", FashionBox
+http://146.158.0.56:80/FashionBox/index.m3u8
+#EXTINF:-1 group-title="Мода", World Fashion Channel
+https://live-3.otcnet.ru/wfcrusmulti/index.m3u8
+#EXTINF:-1 group-title="Мода", НТВ Стиль
+https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
+#EXTINF:-1 group-title="Домохозяйство", Загородная жизнь
+http://217.107.34.114:8009/playlist.m3u8
+#EXTINF:-1 group-title="Домохозяйство" tvg-id="zagorodnaya-zhizn", Загородная жизнь HD
+http://195.161.68.11:8004/playlist.m3u8
+#EXTINF:-1 group-title="Домохозяйство", Загородный 
+http://ott-cdn.ucom.am/s31/04.m3u8
+#EXTINF:-1 group-title="Домохозяйство", Усадьба
+https://tbs01-edge11.itdc.ge/usadba/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Домохозяйство" tvg-id="bobior", Бобëр
+http://195.26.83.96:7022/play/a00t/index.m3u8
+#EXTINF:-1 tvg-id="hgtv" group-title="Домохозяйство", HGTV English
+http://streamer.enchart.one/42/64d7dbe65e57521ae6b478a3541feea3269dd666/890/stream.m3u8
+#EXTINF:-1 tvg-id="hgtv" group-title="Домохозяйство", HGTV English (Резерв)
+http://streamer.enchart.one/42/03e656b8b4d21ceed53e946ffd484365a2ac50ec/890/stream.m3u8
+#EXTINF:-1 group-title="Еда", Food Time
+http://193.33.88.172/eda_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Еда", Еда
+http://u.vipl.one/high/mtpy4cu872/518.m3u8 
+#EXTINF:-1 group-title="Еда", Еда Премиум Международный 
+https://cdn-cache01.voka.tv:443/live/991.m3u8
+#EXTINF:-1 group-title="Еда", Кухня ТВ
+https://tbs01-edge11.itdc.ge/kuxnia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Еда", Телекафе
+http://46.151.151.245:10007/play/a003
+#EXTINF:-1 group-title="Еда", Food Network 
+http://ott-cdn.ucom.am/s18/04.m3u8
+#EXTINF:-1 group-title="Еда", JoyCook
+http://tv.tvip-media.net/joycook/tracks-v1a0/time-0.m3u8
+#EXTINF:-1 group-title="Все хобби", КтоКуда
+http://146.158.0.56:80/MirUvlecheniy/index.m3u8
+#EXTINF:-1 group-title="Все хобби", Мужской 
+http://81.177.136.209:8006/playlist.m3u8
+#EXTINF:-1 group-title="Все хобби", Наша тема 
+http://109.200.135.130:8080/nasha_tema_hd/index.m3u8
+#EXTINF:-1 group-title="Другие хобби", Мама
+http://streamer1.ruslanatv.ru/russia/mama_2023/playlist.m3u8
+#EXTINF:-1 group-title="Другие хобби", Моя стихия 
+http://91.200.160.134:15000/play/a0rb/index.m3u8
+#EXTINF:-1 group-title="Другие хобби", Живи
+http://109.200.135.130:8080/jivi/index.m3u8
+#EXTINF:-1 group-title="Другие хобби", Конный мир 
+https://bl.uma.media/live/400930/HLS/4614144_4/1/1/playlist.m3u8
+#EXTINF:-1 group-title="Религия", Союз
+http://193.33.88.172/soyuz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Религия", МузСоюз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 group-title="Религия", Три ангела
+https://hls.tv.3angels.ru/stream.m3u8
+#EXTINF:-1 group-title="Религия", Спас
+https://okkotv-live.cdnvideo.ru/channel/Spas/480p.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Религия" tvg-id="spas", Спас (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+#EXTINF:-1 group-title="Телемагазины", Ювелирочка
+http://okko-media.cdnvideo.ru/live/okko/uvelir/hls/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Телемагазины", Leomax 24
+http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Телемагазины", Shopping Live
+http://shoppinglive.mediacdn.ru/cdn/shopping/playlist_sdhigh.m3u8
